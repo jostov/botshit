@@ -8,4 +8,6 @@ If you want to run beepenstein however, super fucking simple, just use the follo
 
   python beepenstein.py
 
-So goddamn simple. Use it. Improve it. Abuse it.
+So goddamn simple. Do not use it. Do not improve it. Abuse the author for making this.
+
+RIP BEEPI 9/13/2016
